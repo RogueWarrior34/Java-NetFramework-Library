@@ -124,6 +124,8 @@ public class BankUI {
    - Define custom exceptions (`BankingException` and `NetworkException`) for specific error scenarios.
    - Catch and handle exceptions in client applications for robust error management.
 
+
+
 ## Installation and Setup
 
 This project has been compiled using Gradle and follows the proper folder structure:
@@ -173,8 +175,7 @@ This project has been compiled using Gradle and follows the proper folder struct
   │   │   │   │                           └── NetworkException.java
   ├── README.md              # Project README with usage instructions and details
   └── LICENSE                # License file for the project
-```
-
+  ```
 Each component (`server`, `client`, `common`) has its own dedicated directory structure and Gradle build script (`build.gradle`). This modular approach allows for easier maintenance, testing, and scalability of the Java NetFramework Library.
 
 ## License
@@ -182,3 +183,7 @@ Each component (`server`, `client`, `common`) has its own dedicated directory st
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+
+
+
