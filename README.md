@@ -121,7 +121,7 @@ public class BankUI {
    - Execute remote methods using `client.execute(servicePath, arguments)`.
 
 3. **Exception Handling**:
-   - Define custom exceptions (`BankingException` and `NetworkException`) for specific error scenarios.
+   - Define custom exceptions (`BankingException`) for specific error scenarios.
    - Catch and handle exceptions in client applications for robust error management.
 
 
